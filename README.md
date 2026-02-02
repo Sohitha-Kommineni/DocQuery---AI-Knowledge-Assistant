@@ -1,6 +1,6 @@
-# DocQuery Enterprise
+# DocQuery
 
-DocQuery is a modern Enterprise AI Knowledge Assistant built with a RAG-first architecture. It enables teams to centralize documents, apply role-based access control, and deliver citation-backed answers from trusted internal sources.
+DocQuery is a modern AI Knowledge Assistant built with a RAG-first architecture. It enables teams to centralize documents, apply role-based access control, and deliver citation-backed answers from trusted internal sources.
 
 ![Overview diagram](https://raw.githubusercontent.com/Sohitha-Kommineni/DocQuery---AI-Knowledge-Assistant/50547ed31937fb39e4881e74ed37c429549aa8f8/Overview.png)
 
