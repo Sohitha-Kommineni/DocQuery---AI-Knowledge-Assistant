@@ -1,1 +1,1 @@
-# DocQuery---AI-Knowledge-Assistant
+# DocQuery - AI-Knowledge-Assistant
